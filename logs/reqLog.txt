@@ -1,0 +1,75 @@
+20220711	14:42:03	7a69f293-0306-4067-9e15-dd0ba1eebb0a	/new-page	GET
+20220711	14:42:03	5de5bfb6-dc7e-4f54-8d74-e5dbdeb56c18	/css/style.css	GET
+20220711	14:42:03	d67c2371-651f-4a9e-9ad4-b082ad9517d5	/img/img1.jpg	GET
+20220711	14:42:04	f55e9ea8-7685-4ec5-936e-de55c7636413	/favicon.ico	GET
+20220711	14:43:02	b7494260-96a5-4b6e-8acc-8106215dffe5	/new-page	GET
+20220711	14:43:16	f1e4473e-7d78-4b9f-afc6-dd2b01b5607a	/new-page	GET
+20220711	14:43:16	75b370ab-7294-4300-95e4-c63feb9fc541	/css/style.css	GET
+20220711	14:43:16	c0a5025c-a055-4474-b36f-c5dc9305d9b4	/img/img1.jpg	GET
+20220711	16:00:20	a3687ba9-57b8-49aa-9291-dfbf93e094d4	GET	undefined	/
+20220711	16:00:20	359b4b06-8ed9-42bd-a32c-f55f6b400fbc	GET	undefined	/css/style.css
+20220711	16:02:23	9ae2087d-0a54-4842-922a-02591db55589	GET	undefined	/
+20220711	16:02:23	309b292c-b5ec-4503-85ec-b11f01cbc2f5	GET	undefined	/css/style.css
+20220711	16:02:28	250d2c58-2895-4985-8d8c-814bf85d5bf9	GET	undefined	/
+20220711	16:02:28	5b5676b5-c297-4b62-819b-94fdc4f45407	GET	undefined	/css/style.css
+20220711	16:04:36	97b8b5f4-4daa-4b81-9f97-e175b8a76cb3	GET	https://stackoverflow.com	/
+20220711	16:06:55	0f0c43a9-e503-4b78-9fcc-d2b4048295f5	GET	https://stackoverflow.com	/
+20220711	16:10:52	da0b989f-1b59-4f74-b7b5-913412b47bec	GET	undefined	/
+20220711	16:10:52	67274968-2ae8-4c14-b62e-e8eb2243cf8b	GET	undefined	/css/style.css
+20220711	16:11:36	53133dbf-b328-455b-997e-d610062c243a	GET	undefined	/
+20220711	16:11:41	fe8397ad-c264-4139-9427-14faa814044b	GET	undefined	/
+20220711	16:11:41	59ae9275-ebb9-45aa-b653-0293abfe37cf	GET	undefined	/css/style.css
+20220711	16:16:22	86b67c26-1d3c-440c-9611-8fd9aa526f4d	GET	undefined	/
+20220711	16:16:22	0d733a52-2f1d-47b3-9613-bfc3918337e0	GET	undefined	/css/style.css
+20220711	21:02:48	c38415ff-f66f-40f9-ba98-6d093485d42f	GET	undefined	/subdir
+20220711	21:03:02	d53e12de-bbf8-464f-bbdd-44fc5ca14a69	GET	undefined	/subdir/test
+20220711	21:03:56	aed575ea-4752-46dd-b7a4-4d81162304db	GET	undefined	/subdir/aa
+20220711	21:03:57	022aa8e1-90ce-4419-8a3c-dcc6d90754d7	GET	undefined	/subdir/css/style.css
+20220711	21:04:24	9a1e6cfd-13c2-49aa-aebc-f92e62f35a9d	GET	undefined	/subdir/aa
+20220711	21:04:24	2ee56835-e7ad-44a5-925f-2e27afacc6ae	GET	undefined	/subdir/css/style.css
+20220711	21:09:27	3d586d57-abd1-48a6-a391-560663ac250e	GET	undefined	/
+20220711	21:09:27	24821809-8790-4020-aae4-23a71a7b8d05	GET	undefined	/css/style.css
+20220711	21:09:31	6e6a9684-77f1-42d5-8cba-a87a9d7bc466	GET	undefined	/new-page
+20220711	21:09:32	cf0c2d03-e7e0-46f5-8a85-f018afd8a53e	GET	undefined	/css/style.css
+20220711	21:09:32	963e2bb5-6da1-487e-8ce9-f09593a4a4af	GET	undefined	/img/img1.jpg
+20220711	21:23:54	c7215a1c-50ea-47d2-a53a-213cd01cd635	GET	undefined	/employees
+20220711	21:25:06	d022e1b9-148e-43f9-aeab-11bdbed42add	POST	undefined	/employees
+20220711	21:26:30	8a466a6f-20ac-429a-80d6-a7479cad9138	PUT	undefined	/employees
+20220711	21:26:59	70bdde36-cd16-4dab-acae-7160553d4362	DELETE	undefined	/employees
+20220711	21:27:16	e8f0b5db-e45f-4912-ab70-096e4354c1a0	GET	undefined	/employees/1
+20220711	21:27:26	02a79c49-d582-4fc6-b9fe-3cfe0dc19893	GET	undefined	/employees/2
+20220711	21:27:33	ada35028-1ef7-44c0-a010-113399e25b4b	GET	undefined	/employees/2
+20220711	21:44:05	4b6d018c-1a66-4a33-b4b4-30b4dd713577	GET	undefined	/
+20220711	21:44:05	5935c6ef-2283-4a6a-97cb-21c90459d437	GET	undefined	/css/style.css
+20220711	21:54:08	f3adc20b-cb8a-4b2d-85a8-5fca66036938	GET	undefined	/employees
+20220711	21:54:10	0ace8125-c880-47da-a010-04cf2a237808	GET	undefined	/employees
+20220711	21:54:22	c5621f09-af94-45fb-8b2b-97b44e859fd2	POST	undefined	/employees
+20220711	21:54:38	64428202-82ad-4e53-bdd5-1aa510b72bed	GET	undefined	/employees/3
+20220711	21:55:04	32655055-89cb-432d-bd2a-664baa7f784f	DELETE	undefined	/employees
+20220711	23:33:01	21a567c7-a626-42f3-9296-a857f5bb2053	POST	undefined	/register
+20220711	23:38:29	fa854964-86f9-49c3-87b6-ab5ff6785d25	POST	undefined	/auth
+20220711	23:38:34	05a6fc80-018c-4a74-b9ca-652c3e8725f6	POST	undefined	/auth
+20220711	23:38:39	5bab77e3-5e32-42de-8167-662457591f65	POST	undefined	/auth
+20220711	23:39:11	08810eaa-e967-4cde-9590-74161d35c81b	POST	undefined	/register
+20220711	23:41:08	bd925b0e-c36f-47c5-b3a3-5205390c6411	POST	undefined	/register
+20220711	23:41:10	9250f629-f9b7-4b80-a16d-d1ba84f6d39c	POST	undefined	/register
+20220711	23:42:19	f890b1d2-f933-4615-89fb-8714511a51e5	POST	undefined	/register
+20220712	00:43:10	e1b8c057-89da-4b31-b0ca-16987b915eb7	POST	undefined	/auth
+20220712	00:43:52	2a5d17fb-1908-42c3-bd0d-3cc3b8cf41fe	POST	undefined	/auth
+20220712	00:44:35	15ea87ec-ee85-4a16-af7e-d90199247c68	GET	undefined	/employees
+20220712	00:44:41	373df0de-66d8-4d02-bb64-47e4e805239f	GET	undefined	/employees
+20220712	00:45:16	5d13c978-98cd-4c68-b954-78091e4bcef0	POST	undefined	/auth
+20220712	00:45:28	439248e4-fecb-4e24-bbcf-706134aace60	GET	undefined	/employees
+20220712	00:45:36	4f82892a-1439-4718-8e56-8a941de256f5	POST	undefined	/auth
+20220712	00:45:41	ba93ffee-fe65-4686-a119-3ee157edf5a4	GET	undefined	/employees
+20220712	00:46:15	4f51ceae-bf87-452f-95cb-c1ff49de4605	POST	undefined	/auth
+20220712	00:46:20	102291fc-314a-44c5-936f-c65a5519b034	GET	undefined	/employees
+20220712	00:47:58	3183703a-5d84-4a09-bdd6-f7a8ded478cb	POST	undefined	/auth
+20220712	00:48:04	027adac9-e6cd-4d74-ad6c-5128e0fee6e0	GET	undefined	/employees
+20220712	00:51:10	7ecf8037-e981-4b85-83a8-10de037b4ad0	POST	undefined	/auth
+20220712	00:51:22	dc504abe-0bab-45cd-bcc3-0523d6031333	GET	undefined	/employees
+20220712	00:54:31	35f9cae3-a935-4daa-a18d-21ba2e4c90ca	POST	undefined	/auth
+20220712	00:54:38	a3ebc163-7a70-46a6-94f1-23491a4d362e	GET	undefined	/employees
+20220712	13:00:31	3cb7b045-94b6-4570-b69f-1d47094ce51d	GET	undefined	/employees
+20220712	13:00:41	6b9a2899-a2ff-493d-a339-75ee86593413	POST	undefined	/auth
+20220712	13:00:53	c51f3ab5-c48a-4f1f-95dd-4a8fad06ff40	GET	undefined	/employees
